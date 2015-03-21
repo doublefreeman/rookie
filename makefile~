@@ -1,2 +1,0 @@
-run:run
-g++ -o run main.o
